@@ -1,0 +1,22 @@
+{
+  "title": "Elemental Ladies Comics",
+  "description": "this is for the formatting",
+  "artist": "candiedCoder",
+  "author": "candiedCoder",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "The third entry, second chapter and the first 'normal' comic: the teardrop entry",
+      "volume": "",
+      "last_updated": "1709235480",
+      "groups": {
+        "": [
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-01.png",
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-02.png",
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-03.png",
+          "https://pixequil.github.io/prot-os/ch01/Prot-OS-1-04.png"
+        ]
+      }
+    }
+  }
+}
