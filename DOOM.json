@@ -8,12 +8,20 @@
     "1": {
       "title": "The third entry, second chapter and the first 'normal' comic: the teardrop entry",
       "volume": "",
-      "last_updated": "1755415473",
+      "last_updated": "1755521989",
       "groups": {
         "": [
           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_WARNING.png",
           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P01.png",
           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P02.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P03.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P04.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P05.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P06.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P07.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P08.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P09.png",
+           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P10.png",
           "https://raw.githubusercontent.com/candiedCoder/DOOM-Comics/refs/heads/main/Chapter2/DOOM-CH2_COMIC_P15.png"
         ]
       }
